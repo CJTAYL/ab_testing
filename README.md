@@ -1,6 +1,6 @@
 # A/B Testing for Advertising Campaign
 
-<img src='https://github.com/CJTAYL/ab_testing/assets/64110892/a3d93c1e-d3a4-45d5-b4cb-13bbcc7c5538' width='200' height='200' />
+<img src='https://github.com/CJTAYL/ab_testing/assets/64110892/a3d93c1e-d3a4-45d5-b4cb-13bbcc7c5538' width='400' height='400' />
 
 
 ## Executive Summary 
