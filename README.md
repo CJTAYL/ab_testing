@@ -1,5 +1,8 @@
 # A/B Testing for Advertising Campaign
 
+![image](https://github.com/CJTAYL/ab_testing/assets/64110892/a3d93c1e-d3a4-45d5-b4cb-13bbcc7c5538)
+
+
 ## Executive Summary 
 
 An A/B test was conducted to evaluate the effects of a new advertising campaign on total amount spent in dollars. A total of 60 consumers participated in the study. Thirty were assigned to the control group, which used the current advertising campaign, and 30 were assigned to the test group, which used the proposed advertising campaign. The results of an independent t-test indicated a statistically significant difference between the two groups. Specifically, consumers exposed to the proposed advertising campaign spent more in total dollars compared to consumers exposed to the current campaign. Based on the results of the analysis, the new advertising campaign should be implemented. 
@@ -55,6 +58,7 @@ To determine if the data for each group was approximately normally distributed, 
 The histogram provides some evidence that the distributions are approximately normal. To gain a better understanding of the data and ensure that the assumption is met, the Wilks-Shapiro test was conducted. The hypothesis for the test are: 
 
 $H_0$: The sample data are drawn from a normal distribution.
+
 $H_1$: The sample data are not drawn from a normal distribution. 
 
 When using a significance level of 0.05, the p-value did not indicate sufficient evidence to reject the null hypothesis. In other words, the results of the test indicate the sample is drawn from a normal distribution. 
@@ -62,6 +66,7 @@ When using a significance level of 0.05, the p-value did not indicate sufficient
 Although the box plot provided some evidence that the variance across groups was equal, Bartlett’s test was conducted to ensure the assumption of equal variance was met. The hypotheses for the test are:
 
 $H_0$: The variances are equal across groups.
+
 $H_1$: The variances are not equal across groups.
 
 When using a significance level of 0.05, the p-value did not indicate sufficient evidence to reject the null hypothesis. In other words, the results of the test indicate the variance is approximately equal across groups.
