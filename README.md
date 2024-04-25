@@ -24,9 +24,9 @@ Data were also collected on 9 other variables:
 
 When conducting a A/B test, one should develop a null and alternative hypothesis and select a significance level prior to examining the data. A significance level of 0.05 was used and the null and alternative hypotheses for the current test are listed below:
 
-$H_0$: the population means for the groups are equal
+$H_0$: The population means for the groups are equal.
 
-$H_1$: the population mean for the test group is higher than the population mean for the control group 
+$H_1$: The population mean for the test group is higher than the population mean for the control group.
 
 Before conducting the analysis, the data were cleaned and missing values were replaced with the column median for the group assignment. For example, if a participant in the control group did not have data recorded for the Searches, the median number of clicks for all participants in the control group was used for the value. 
 
