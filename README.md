@@ -76,7 +76,9 @@ When using a significance level of 0.05, the p-value did not indicate sufficient
 After the assumptions of the hypothesis test were verified, an independent t-test was conducted. The results of the test are presented below:
 
 Test Statistic: 2.97
+
 P-Value: 0.0043
+
 Interpretation: Reject the null hypothesis
 
 A 95% confidence interval was calculated to provide additional information about the group means. The intervals were:
