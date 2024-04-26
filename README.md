@@ -5,7 +5,7 @@
 
 ## Executive Summary 
 
-An A/B test was conducted to evaluate the effects of a new advertising campaign on total amount spent in dollars. A total of 60 consumers participated in the study. Thirty were assigned to the control group, which used the current advertising campaign, and 30 were assigned to the test group, which used the proposed advertising campaign. The results of an independent t-test indicated a statistically significant difference between the two groups. Specifically, consumers exposed to the proposed advertising campaign spent more in total dollars compared to consumers exposed to the current campaign. Based on the results of the analysis, the new advertising campaign should be implemented. 
+An A/B test was conducted to evaluate the effects of a proposed advertising campaign on total amount spent in dollars. A total of 60 consumers participated in the study. Thirty were assigned to the control group, which used the current advertising campaign, and 30 were assigned to the test group, which used the proposed advertising campaign. The results of an independent t-test indicated a statistically significant difference between the two groups. Specifically, consumers exposed to the proposed advertising campaign spent more in total dollars compared to consumers exposed to the current campaign. Based on the results of the analysis, the proposed advertising campaign should be implemented. 
 
 ## Methodology
 
