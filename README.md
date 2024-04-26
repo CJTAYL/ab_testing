@@ -22,7 +22,7 @@ Data were also collected on 9 other variables:
 - Add to cart (Number of users who added products to their cart)
 - Purchase (Number of purchases)
 
-When conducting a A/B test, one should develop a null and alternative hypothesis and select a significance level prior to examining the data. A significance level of 0.05 was used and the null and alternative hypotheses for the current test are listed below:
+When conducting an A/B test, one should develop a null and alternative hypothesis and select a significance level prior to examining the data. A significance level of 0.05 was used and the null and alternative hypotheses for the current test are listed below:
 
 $H_0$: The population means for the groups are equal.
 
@@ -55,7 +55,7 @@ To determine if the data for each group was approximately normally distributed, 
 
 ![image](https://github.com/CJTAYL/ab_testing/assets/64110892/4b13aa60-e08f-41af-a6bd-b2cbfad69883)
 
-The histogram provides some evidence that the distributions are approximately normal. To gain a better understanding of the data and ensure that the assumption is met, the Wilks-Shapiro test was conducted. The hypothesis for the test are: 
+The histogram provides some evidence that the distributions are approximately normal. To gain a better understanding of the data and ensure that the assumption is met, the Wilks-Shapiro test was conducted. The hypotheses for the test are: 
 
 $H_0$: The sample data are drawn from a normal distribution.
 
