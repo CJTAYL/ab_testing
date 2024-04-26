@@ -82,7 +82,7 @@ Interpretation: Reject the null hypothesis
 A 95% confidence interval was calculated to provide additional information about the group means. The intervals were:
 
 - Mean Difference: 274.63
-- 95% Confidence Interval: (61.85.54, 487.41)
+- 95% Confidence Interval: (61.85, 487.41)
 
 ## Interpretation of Results 
 
